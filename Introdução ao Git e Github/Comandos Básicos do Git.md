@@ -1,5 +1,4 @@
-## Alguns comandos básicos para manipulação de diretórios e arquivos no Git:happy:
-
+## Alguns comandos básicos para manipulação de diretórios e arquivos no Git: happy:
 ### Estados
 
 * Modified (modificado)
