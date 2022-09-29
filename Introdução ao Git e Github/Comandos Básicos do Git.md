@@ -7,11 +7,9 @@
 * Committed (Consolidado)
 
 
-
 ###  Para pedir ajuda 
 
-git help
-
+git  help
 
 
 ### Configuração
@@ -37,8 +35,7 @@ git config --global user.name "nome"
 git config --list
 
 
-
-## Repositório Local
+### Repositório Local
 
 #### Criar novo repositório:
 
@@ -94,21 +91,21 @@ git rm -r diretorio
 
 ### Enviar arquivos/diretórios para o repositório remoto
 
-##### O primeiro **push** de um repositório deve conter o nome do repositório remoto e o branch:
+#### O primeiro **push** de um repositório deve conter o nome do repositório remoto e o branch:
 
 git push -u origin master
 
-##### Os demais **pushes** não precisam dessa informação:
+#### Os demais **pushes** não precisam dessa informação:
 
 git push
 
 ### Atualizar repositório local de acordo com o repositório remoto
 
-##### Atualizar os arquivos no branch atual:
+#### Atualizar os arquivos no branch atual:
 
 git pull
 
-##### Buscar as alterações, mas não aplica-las no branch atual:
+#### Buscar as alterações, mas não aplica-las no branch atual:
 
 git fetch
 
