@@ -33,7 +33,7 @@
 
 # Abaixo segue um exemplo de código que você pode ou não utilizar
 valores = input(" Digite a quantidade de cachorros quentes consumidos e o número de participantes: ").split() 
-# No Site deve ficar  -> entrada = input().split()
+# No Site deve ficar  -> valores = input().split()
 
 total_cachorros_quentes = int (valores[0])
 participantes = int (valores[1])
