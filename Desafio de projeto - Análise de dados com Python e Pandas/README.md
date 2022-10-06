@@ -1,5 +1,5 @@
 # Desafio de projeto - Análise de dados com Python e Pandas
- Repositório do Curso Introdutório de Python para análise de dados com Python e biblioteca Pandas, ministrado pela professora e cientista de dados Fernanda Santos para o BootCamp Geração-Tech-Unimed-BH--Ciência-de-Dados, parceira entre a Unimed BH e a DIO.
+ Repositório do Curso Introdutório de Python para análise de dados com Python e biblioteca Pandas, ministrado pela professora e cientista de dados Fernanda Santos para o BootCamp Geração-Tech-Unimed-BH--Ciência-de-Dados, parceria entre a Unimed BH e a DIO.
 
  **Assuntos abordados neste curso**:
  1. Python Básico
