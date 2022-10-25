@@ -1,4 +1,4 @@
-#Calculadora simples utilizando funções e While.
+#Simples calculadora utilizando funções e While.
 
 opcao = True
 

@@ -1,7 +1,7 @@
-# calculadora_simples
+# Simples_Calculadora
 
 Description. 
-The package package_name is used to:
+The package simples_calculadora is used to:
 	- def soma
 	- def subtracao
         - def multiplicacao
@@ -9,10 +9,10 @@ The package package_name is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install calculadora_simples
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install simples_calculadora
 
 ```bash
-pip install calculadora_simples
+pip install simples_calculadora
 ```
 
 ## Author
